@@ -5,7 +5,7 @@ A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
 ## How to run
 
 ```
-$ sudo npm run docker:start
+npx prisma studio
 ```
 
 ```
